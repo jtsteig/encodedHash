@@ -1,4 +1,4 @@
-package hasher
+package encodedhash
 
 import "testing"
 
