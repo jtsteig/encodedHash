@@ -1,3 +1,3 @@
-module github.com/jtsteig/encodedHash
+module github.com/jtsteig/encodedhash
 
 go 1.13
